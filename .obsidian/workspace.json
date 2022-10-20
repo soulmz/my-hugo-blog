@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "2bce1f995a19ce11",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc53f2f9cb1f984d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ca3bee0039d6e76",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae5759458d3544e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "250a6d6f0d268417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61f3c413d3992b25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fd6288370387ab3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0dac474654bcde4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5026054382324
+  },
+  "right": {
+    "id": "c7156bfc6804685e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a2bff2e840bade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51cda879df067d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37317bfebd8d7723",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9afb4ddb9b3aeac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0510f42d4a7531b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6ca3bee0039d6e76",
+  "lastOpenFiles": [
+    "archetypes/default.md",
+    "未命名.md",
+    "themes/ananke/exampleSite/content/fr/post/chapter-1.md",
+    "themes/ananke/exampleSite/content/fr/post/_index.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-5.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-4.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-3.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-2.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-1.md",
+    "themes/ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg"
+  ]
+}
